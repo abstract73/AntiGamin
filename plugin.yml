@@ -1,0 +1,7 @@
+name: AntiGamin
+version: 1.0
+author: Abstract73
+main: fr.gregoire.Main
+commands:
+  admin:
+  verif:
